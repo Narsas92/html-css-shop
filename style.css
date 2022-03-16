@@ -1,0 +1,42 @@
+#sfondo{
+    width: 1000px;
+    height: 900px;
+    margin:0 auto ;
+}
+.pic{
+    margin-left: 40px ;
+    margin-bottom: 50px;
+}
+/* Inizio CSS per le immagini*/
+.ipad{
+    margin-top: 10px;
+    display: inline-block;
+    position: relative;
+}
+.iphone{
+    margin-top: 10px ;
+    display: inline-block;
+    position: relative;
+}
+.beats{
+    margin-top: 10px ;
+    display: inline-block;
+    position: relative;
+}
+/* CSS per gli sconti*/
+.trenta{
+    border: 1px, solid, green;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    padding: 2px;
+}
+.cinque{
+    border: 1px, solid, red;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    padding: 2px;
+}
